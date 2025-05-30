@@ -69,6 +69,6 @@ This project analyzes a dataset containing sales records from a supermarket chai
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/supermarket-sales-analysis.git
-   cd supermarket-sales-analysis
+   git clone https://github.com/RizaBasheer/Supermarket_Sales_Analysis.git
+   cd Supermarket_Sales_Analysis
    ```
